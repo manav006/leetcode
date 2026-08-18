@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manav006/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/manav006/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/manav006/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/manav006/leetcode/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/manav006/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/manav006/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manav006/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/manav006/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/manav006/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/manav006/leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
