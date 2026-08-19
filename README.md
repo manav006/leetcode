@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/manav006/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/manav006/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/manav006/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0962-maximum-width-ramp](https://github.com/manav006/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/manav006/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/manav006/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manav006/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/manav006/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0962-maximum-width-ramp](https://github.com/manav006/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manav006/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/manav006/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/manav006/leetcode/tree/master/0503-next-greater-element-ii) |
+| [0962-maximum-width-ramp](https://github.com/manav006/leetcode/tree/master/0962-maximum-width-ramp) |
 ## String
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manav006/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/manav006/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/manav006/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0962-maximum-width-ramp](https://github.com/manav006/leetcode/tree/master/0962-maximum-width-ramp) |
 ## Quicksort
 |  |
 | ------- |
