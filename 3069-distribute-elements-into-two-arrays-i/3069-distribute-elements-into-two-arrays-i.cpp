@@ -12,15 +12,12 @@ public:
                 a2.push_back(nums[i]);
             }
         }
-        vector<int>v;
-        for(int x:a1){
-            v.push_back(x);
-        }
+        
 
         for(int x:a2){
-            v.push_back(x);
+            a1.push_back(x);
         }
-        return v;
+        return a1;
 
         
     }
