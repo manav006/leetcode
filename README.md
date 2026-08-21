@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/manav006/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/manav006/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/manav006/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/manav006/leetcode/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/manav006/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/manav006/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/manav006/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/manav006/leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/manav006/leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/manav006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manav006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Sorting
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manav006/leetcode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/manav006/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/manav006/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/manav006/leetcode/tree/master/0881-boats-to-save-people) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manav006/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/manav006/leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/manav006/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/manav006/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/manav006/leetcode/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/manav006/leetcode/tree/master/0962-maximum-width-ramp) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manav006/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
@@ -132,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manav006/leetcode/tree/master/0169-majority-element) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/manav006/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
