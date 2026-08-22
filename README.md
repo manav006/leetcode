@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/manav006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1480-running-sum-of-1d-array](https://github.com/manav006/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manav006/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/manav006/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manav006/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manav006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manav006/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/manav006/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/manav006/leetcode/tree/master/0881-boats-to-save-people) |
 | [1552-magnetic-force-between-two-balls](https://github.com/manav006/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/manav006/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manav006/leetcode/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/manav006/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/manav006/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/manav006/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manav006/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manav006/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/manav006/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/manav006/leetcode/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/manav006/leetcode/tree/master/0962-maximum-width-ramp) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/manav006/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manav006/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
