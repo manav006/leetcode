@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manav006/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/manav006/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2390-removing-stars-from-a-string](https://github.com/manav006/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/manav006/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manav006/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/manav006/leetcode/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/manav006/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manav006/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/manav006/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manav006/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
