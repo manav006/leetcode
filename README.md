@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/manav006/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/manav006/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/manav006/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/manav006/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/manav006/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/manav006/leetcode/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/manav006/leetcode/tree/master/0962-maximum-width-ramp) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/manav006/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/manav006/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/manav006/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/manav006/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
