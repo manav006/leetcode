@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/manav006/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manav006/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manav006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/manav006/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manav006/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manav006/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/manav006/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/manav006/leetcode/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/manav006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manav006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/manav006/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
