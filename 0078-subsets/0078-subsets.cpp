@@ -1,21 +1,19 @@
 class Solution {
 public:
-    vector<vector<int>>ans;
-    vector<int>v;
-    void backtrack(vector<int>&nums, int i){
+    void generate(vector<int>&nums,vector<int>&v, vector<vector<int>>&ans,int i){
         if(i==nums.size()){
             ans.push_back(v);
             return;
         }
-
         v.push_back(nums[i]);
-        backtrack(nums,i+1);
+        generate(nums,v,ans,i+1);
         v.pop_back();
-        backtrack(nums,i+1);
-
+        generate(nums,v,ans,i+1);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        backtrack(nums,0);
+        vector<vector<int>>ans;
+        vector<int>v;
+        generate(nums,v,ans,0);
         return ans;
     }
 };
