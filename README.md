@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/manav006/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/manav006/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/manav006/leetcode/tree/master/0022-generate-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manav006/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
