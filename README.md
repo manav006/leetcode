@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/manav006/leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/manav006/leetcode/tree/master/0022-generate-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/manav006/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/manav006/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/manav006/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/manav006/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/manav006/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/manav006/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manav006/leetcode/tree/master/0229-majority-element-ii) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/manav006/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/manav006/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/manav006/leetcode/tree/master/0189-rotate-array) |
 | [2963-count-the-number-of-good-partitions](https://github.com/manav006/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
