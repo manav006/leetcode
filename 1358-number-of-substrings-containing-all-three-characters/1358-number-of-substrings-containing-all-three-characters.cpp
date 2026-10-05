@@ -1,0 +1,25 @@
+class Solution {
+public:
+    int numberOfSubstrings(string s) {
+        int total=0;
+        int a=-1,b=-1,c=-1;
+        for(int i=0;i<s.size();i++){
+            
+            if(s[i]=='a'){
+                a=i;
+            }else if(s[i]=='b'){
+                b=i;
+            }else{
+                c=i;
+            }
+
+            if(a!=-1 && b!=-1 && c!=-1){
+                int index = min({a,b,c});
+                total += index+1;
+            }
+        }
+
+        return total;
+
+    }
+};
