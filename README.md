@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/manav006/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/manav006/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/manav006/leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/manav006/leetcode/tree/master/0189-rotate-array) |
 | [2963-count-the-number-of-good-partitions](https://github.com/manav006/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/manav006/leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -386,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/manav006/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/manav006/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
