@@ -1,17 +1,18 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        int depth = 0;
+        int depth=0;
         string ans="";
-        for(char c :s){
+        for(char c : s){
             if(c=='('){
-                if(depth>0){
+                if(depth!=0){
                     ans+=c;
                 }
                 depth++;
-            }else{
+            }
+            else if(c==')'){
                 depth--;
-                if(depth>0){
+                if(depth!=0){
                     ans+=c;
                 }
             }
