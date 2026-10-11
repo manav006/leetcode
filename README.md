@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/manav006/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/manav006/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/manav006/leetcode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/manav006/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/manav006/leetcode/tree/master/0189-rotate-array) |
 | [1922-count-good-numbers](https://github.com/manav006/leetcode/tree/master/1922-count-good-numbers) |
 | [2963-count-the-number-of-good-partitions](https://github.com/manav006/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/manav006/leetcode/tree/master/0062-unique-paths) |
 | [2963-count-the-number-of-good-partitions](https://github.com/manav006/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Dynamic Programming
 |  |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/manav006/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/manav006/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/manav006/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/manav006/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/manav006/leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/manav006/leetcode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/manav006/leetcode/tree/master/0118-pascals-triangle) |
