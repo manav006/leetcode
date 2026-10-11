@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/manav006/leetcode/tree/master/0547-number-of-provinces) |
+| [1192-critical-connections-in-a-network](https://github.com/manav006/leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manav006/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -420,8 +421,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/manav006/leetcode/tree/master/0547-number-of-provinces) |
+| [1192-critical-connections-in-a-network](https://github.com/manav006/leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Enumeration
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/manav006/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/manav006/leetcode/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/manav006/leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
