@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/manav006/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/manav006/leetcode/tree/master/0189-rotate-array) |
 | [1922-count-good-numbers](https://github.com/manav006/leetcode/tree/master/1922-count-good-numbers) |
+| [2235-add-two-integers](https://github.com/manav006/leetcode/tree/master/2235-add-two-integers) |
 | [2963-count-the-number-of-good-partitions](https://github.com/manav006/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/manav006/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manav006/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
