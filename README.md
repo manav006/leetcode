@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manav006/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/manav006/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manav006/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manav006/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manav006/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/manav006/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/manav006/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/manav006/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/manav006/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/manav006/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manav006/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/manav006/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/manav006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manav006/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/manav006/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/manav006/leetcode/tree/master/0229-majority-element-ii) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/manav006/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/manav006/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/manav006/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
