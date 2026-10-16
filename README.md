@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/manav006/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manav006/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manav006/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1813-sentence-similarity-iii](https://github.com/manav006/leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/manav006/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/manav006/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/manav006/leetcode/tree/master/1929-concatenation-of-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manav006/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/manav006/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/manav006/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1813-sentence-similarity-iii](https://github.com/manav006/leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/manav006/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manav006/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manav006/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/manav006/leetcode/tree/master/0962-maximum-width-ramp) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/manav006/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/manav006/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1813-sentence-similarity-iii](https://github.com/manav006/leetcode/tree/master/1813-sentence-similarity-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manav006/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manav006/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
