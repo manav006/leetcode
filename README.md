@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/manav006/leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/manav006/leetcode/tree/master/0189-rotate-array) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manav006/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/manav006/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1922-count-good-numbers](https://github.com/manav006/leetcode/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/manav006/leetcode/tree/master/2235-add-two-integers) |
 | [2963-count-the-number-of-good-partitions](https://github.com/manav006/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/manav006/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/manav006/leetcode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/manav006/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1486-xor-operation-in-an-array](https://github.com/manav006/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/manav006/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bubble Sort
 |  |
