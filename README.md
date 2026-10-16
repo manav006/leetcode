@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/manav006/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/manav006/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [1929-concatenation-of-array](https://github.com/manav006/leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/manav006/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manav006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manav006/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/manav006/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/manav006/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/manav006/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manav006/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/manav006/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/manav006/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/manav006/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/manav006/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/manav006/leetcode/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/manav006/leetcode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/manav006/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/manav006/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/manav006/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manav006/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
