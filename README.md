@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manav006/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manav006/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/manav006/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3675-minimum-operations-to-transform-string](https://github.com/manav006/leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 ## Simulation
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manav006/leetcode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/manav006/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manav006/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3675-minimum-operations-to-transform-string](https://github.com/manav006/leetcode/tree/master/3675-minimum-operations-to-transform-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/manav006/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/manav006/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
