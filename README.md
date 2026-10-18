@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/manav006/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/manav006/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manav006/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3285-find-indices-of-stable-mountains](https://github.com/manav006/leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/manav006/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/manav006/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manav006/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
