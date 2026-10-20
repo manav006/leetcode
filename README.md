@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/manav006/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/manav006/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/manav006/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2527-find-xor-beauty-of-array](https://github.com/manav006/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2643-row-with-maximum-ones](https://github.com/manav006/leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/manav006/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/manav006/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/manav006/leetcode/tree/master/1922-count-good-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/manav006/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/manav006/leetcode/tree/master/2235-add-two-integers) |
+| [2527-find-xor-beauty-of-array](https://github.com/manav006/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2963-count-the-number-of-good-partitions](https://github.com/manav006/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [2965-find-missing-and-repeated-values](https://github.com/manav006/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manav006/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/manav006/leetcode/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/manav006/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1486-xor-operation-in-an-array](https://github.com/manav006/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [2527-find-xor-beauty-of-array](https://github.com/manav006/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/manav006/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bubble Sort
 |  |
