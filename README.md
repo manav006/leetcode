@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/manav006/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/manav006/leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3675-minimum-operations-to-transform-string](https://github.com/manav006/leetcode/tree/master/3675-minimum-operations-to-transform-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/manav006/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
 | ------- |
