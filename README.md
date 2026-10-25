@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/manav006/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/manav006/leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/manav006/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/manav006/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1313-decompress-run-length-encoded-list](https://github.com/manav006/leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/manav006/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1386-cinema-seat-allocation](https://github.com/manav006/leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/manav006/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/manav006/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manav006/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1254-number-of-closed-islands](https://github.com/manav006/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/manav006/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/manav006/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/manav006/leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/manav006/leetcode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/manav006/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/manav006/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/manav006/leetcode/tree/master/0547-number-of-provinces) |
 | [1192-critical-connections-in-a-network](https://github.com/manav006/leetcode/tree/master/1192-critical-connections-in-a-network) |
+| [1254-number-of-closed-islands](https://github.com/manav006/leetcode/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/manav006/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -497,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/manav006/leetcode/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/manav006/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
