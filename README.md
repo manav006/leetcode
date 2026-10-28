@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/manav006/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/manav006/leetcode/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/manav006/leetcode/tree/master/2409-count-days-spent-together) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/manav006/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2527-find-xor-beauty-of-array](https://github.com/manav006/leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2578-split-with-minimum-sum](https://github.com/manav006/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2963-count-the-number-of-good-partitions](https://github.com/manav006/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
